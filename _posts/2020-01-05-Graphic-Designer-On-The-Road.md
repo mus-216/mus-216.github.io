@@ -3,6 +3,7 @@ layout: post
 title: "Intro"
 date: 2022-01-05
 feature_image: images/road.jpg
+tags: []
 ---
 
 Elton John is a celebrated musician with over five decades in the industry, known for his dynamic personality, powerful voice, and hits like "Rocket Man" and "Crocodile Rock." Beyond his music, he's a prominent advocate for LGBTQ+ rights, particularly in fighting HIV/AIDS, using his platform to raise awareness and funds. Many LGBTQ+ individuals, especially teens, view him as a role model, as he embodies the message that everyone deserves love and respect regardless of identity or orientation.
